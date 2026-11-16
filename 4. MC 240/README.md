@@ -45,11 +45,12 @@ rename the files or edit those two fields.
 ## Where the code goes
 
 ```bash
-mkdir -p "$MC240/week1" && cd "$MC240/week1"     # the lab's own Setup block gives the right week
-java Lab.java                                    # Java 25 compact source files, run in place
+cd "$MC240/week1"                 # already made, with its sheets; the lab's Setup block names the week
+java Lab.java                     # Java 25 compact source files, run in place
 ```
 
-Write the lab's `.java` files **in the week folder itself**, beside `Lab N.md`, and name them on the sheet's
+Every `weekN/` folder is created together with its answer sheets when that week is built, so there is nothing to
+`mkdir`. Write the lab's `.java` files **in the week folder itself**, beside `Lab N.md`, and name them on the sheet's
 **Code:** line. Anything you only try out goes in `weekN/practice/`, which git ignores. Compiled `*.class` files are
 ignored too.
 

@@ -25,7 +25,7 @@ each lab, side by side in the week it belongs to.
 | 2 | Mon 12 – Sun 18 Jun 2028 | No wasted directions, and a way to measure angles in any dimension. | Lab 2 · Practice 2 · Quiz 2 |
 | 3 | Mon 19 – Sun 25 Jun 2028 | A grid of numbers that moves all of space, and what doing two moves means. | Lab 3 · Practice 3 · Quiz 3 |
 | 4 | Mon 26 Jun – Sun 2 Jul 2028 | Solving many equations at once, and describing every solution. | Lab 4 · Practice 4 · Quiz 4 |
-| 5 | Mon 3 – Sun 9 Jul 2028 | Undoing a transformation, and one number that says whether you can. | *awaiting material* |
+| 5 | Mon 3 – Sun 9 Jul 2028 | Undoing a transformation, and one number that says whether you can. | Lab 5 |
 | 6 | Mon 10 – Sun 16 Jul 2028 | What a matrix can reach, what it flattens, and why the two add up. | *awaiting material* |
 | 7 | Mon 17 – Sun 23 Jul 2028 | The same space in other coordinates, and how a game draws 3D. | *awaiting material* |
 | 8 | Mon 24 – Sun 30 Jul 2028 | The directions a matrix only stretches, and how to find them. | *awaiting material* |
@@ -44,7 +44,7 @@ is empty for now. Dates after August 2027 are provisional (CALENDAR).
 ## Assessment
 
 **Weights:** Practice 40% (lowest dropped) · Labs 20% · Quizzes 15% (lowest dropped) · Final 25%.
-**Sheets so far:** 12 (Practice 4 · Lab 4 · Quiz 4).
+**Sheets so far:** 13 (Practice 4 · Lab 5 · Quiz 4).
 
 Each sheet's `assessment:` and `possible:` join it to its row in `2. Gradebook/2 Tier2 The Core/MC 210.md`. Don't
 rename the files or edit those two fields.
@@ -54,11 +54,12 @@ rename the files or edit those two fields.
 ## Where the code goes
 
 ```bash
-mkdir -p "$MC210/week1" && cd "$MC210/week1"     # the lab's own Setup block gives the right week
-java Lab.java                                    # Java 25 compact source files, run in place
+cd "$MC210/week1"                 # already made, with its sheets; the lab's Setup block names the week
+java Lab.java                     # Java 25 compact source files, run in place
 ```
 
-Write the lab's `.java` files **in the week folder itself**, beside `Lab N.md`, and name them on the sheet's
+Every `weekN/` folder is created together with its answer sheets when that week is built, so there is nothing to
+`mkdir`. Write the lab's `.java` files **in the week folder itself**, beside `Lab N.md`, and name them on the sheet's
 **Code:** line. Anything you only try out goes in `weekN/practice/`, which git ignores. Compiled `*.class` files are
 ignored too.
 
