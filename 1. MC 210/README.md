@@ -26,7 +26,7 @@ each lab, side by side in the week it belongs to.
 | 3 | Mon 19 – Sun 25 Jun 2028 | A grid of numbers that moves all of space, and what doing two moves means. | Lab 3 · Practice 3 · Quiz 3 |
 | 4 | Mon 26 Jun – Sun 2 Jul 2028 | Solving many equations at once, and describing every solution. | Lab 4 · Practice 4 · Quiz 4 |
 | 5 | Mon 3 – Sun 9 Jul 2028 | Undoing a transformation, and one number that says whether you can. | Lab 5 · Practice 5 · Quiz 5 |
-| 6 | Mon 10 – Sun 16 Jul 2028 | What a matrix can reach, what it flattens, and why the two add up. | *awaiting material* |
+| 6 | Mon 10 – Sun 16 Jul 2028 | What a matrix can reach, what it flattens, and why the two add up. | Lab 6 · Practice 6 · Quiz 6 |
 | 7 | Mon 17 – Sun 23 Jul 2028 | The same space in other coordinates, and how a game draws 3D. | *awaiting material* |
 | 8 | Mon 24 – Sun 30 Jul 2028 | The directions a matrix only stretches, and how to find them. | *awaiting material* |
 | 9 | Mon 31 Jul – Sun 6 Aug 2028 | Matrix powers made easy, and where a random surfer ends up. | *awaiting material* |
@@ -44,7 +44,7 @@ is empty for now. Dates after August 2027 are provisional (CALENDAR).
 ## Assessment
 
 **Weights:** Practice 40% (lowest dropped) · Labs 20% · Quizzes 15% (lowest dropped) · Final 25%.
-**Sheets so far:** 15 (Practice 5 · Lab 5 · Quiz 5).
+**Sheets so far:** 18 (Practice 6 · Lab 6 · Quiz 6).
 
 Each sheet's `assessment:` and `possible:` join it to its row in `2. Gradebook/2 Tier2 The Core/MC 210.md`. Don't
 rename the files or edit those two fields.
