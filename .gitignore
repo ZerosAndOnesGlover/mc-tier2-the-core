@@ -1,0 +1,25 @@
+# ─── Obsidian ────────────────────────────────────────────────────────
+# This folder sits inside the vault; Obsidian's state belongs to the vault.
+.obsidian/
+.trash/
+
+# ─── Claude Code ─────────────────────────────────────────────────────
+.claude/
+
+# ─── Python ──────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+
+# ─── Java ────────────────────────────────────────────────────────────
+# Labs run from source (java Lab.java); anything compiled with javac is
+# rebuilt on demand.
+*.class
+
+# ─── OS / editor ─────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+
+# ─── Practice ───────────────────────────────────────────────────────
+# Every weekN/practice/ folder: experiments and test code, never submitted.
+practice/
