@@ -33,7 +33,7 @@ each lab, side by side in the week it belongs to.
 | 10 | Mon 7 – Sun 13 Aug 2028 | The closest point in a subspace, and the best line through noisy data. | Lab 10 · Practice 10 · Quiz 10 |
 | 11 | Mon 14 – Sun 20 Aug 2028 | Building perpendicular axes, and the matrices that never distort. | Lab 11 · Practice 11 · Quiz 11 |
 | 12 | Mon 21 – Sun 27 Aug 2028 | Matrices with perpendicular eigenvectors, and bowls that curve up in every direction. | Lab 12 · Practice 12 · Quiz 12 |
-| 13 | Mon 28 Aug – Sun 3 Sep 2028 | Every matrix is a rotation, a stretch and a rotation, and what that's good for. | *awaiting material* |
+| 13 | Mon 28 Aug – Sun 3 Sep 2028 | Every matrix is a rotation, a stretch and a rotation, and what that's good for. | Lab 13 · Practice 13 · Quiz 13 |
 | 14 | Mon 4 – Sun 10 Sep 2028 | The whole course on one page. | *awaiting material* |
 
 A week's sheets appear when its material is written (`tools/make_sheets.py`), so a week marked *awaiting material*
@@ -44,7 +44,7 @@ is empty for now. Dates after August 2027 are provisional (CALENDAR).
 ## Assessment
 
 **Weights:** Practice 40% (lowest dropped) · Labs 20% · Quizzes 15% (lowest dropped) · Final 25%.
-**Sheets so far:** 36 (Practice 12 · Lab 12 · Quiz 12).
+**Sheets so far:** 39 (Practice 13 · Lab 13 · Quiz 13).
 
 Each sheet's `assessment:` and `possible:` join it to its row in `2. Gradebook/2 Tier2 The Core/MC 210.md`. Don't
 rename the files or edit those two fields.
