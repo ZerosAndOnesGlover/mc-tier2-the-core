@@ -1,7 +1,7 @@
 # MC 220 · Multivariable Calculus
 
 **Course:** MC 220, Multivariable Calculus (Tier 2, 10 weeks)
-**When:** Mon 11 Sep 2028 – Sun 19 Nov 2028 · **Status:** being built
+**When:** Mon 11 Sep 2028 – Sun 19 Nov 2028 · **Status:** complete
 **Course material:** `2. Tier 2 - The Core/2. MC 220 - Multivariable Calculus/`
 **Shell variable:** `$MC220` (defined once from *Shell variables* in the vault's `9. Track Registry/4. Submissions/README.md`)
 
@@ -32,7 +32,7 @@ each lab, side by side in the week it belongs to.
 | 7 | Mon 23 – Sun 29 Oct 2028 | Volume under a surface, and coordinates that fit the region. | Lab 7 · Practice 7 · Quiz 7 |
 | 8 | Mon 30 Oct – Sun 5 Nov 2028 | Adding up in three dimensions, and curves and surfaces drawn by parameters. | Lab 8 · Practice 8 · Quiz 8 |
 | 9 | Mon 6 – Sun 12 Nov 2028 | An arrow at every point, the work done along a path, and Green's theorem. | Lab 9 · Practice 9 · Quiz 9 |
-| 10 | Mon 13 – Sun 19 Nov 2028 | The whole course on one page. | *awaiting material* |
+| 10 | Mon 13 – Sun 19 Nov 2028 | The whole course on one page. | Final |
 
 A week's sheets appear when its material is written (`tools/make_sheets.py`), so a week marked *awaiting material*
 is empty for now. Dates after August 2027 are provisional (CALENDAR).
@@ -42,7 +42,7 @@ is empty for now. Dates after August 2027 are provisional (CALENDAR).
 ## Assessment
 
 **Weights:** Practice 40% (lowest dropped) · Labs 20% · Quizzes 15% (lowest dropped) · Final 25%.
-**Sheets so far:** 27 (Practice 9 · Lab 9 · Quiz 9).
+**Sheets so far:** 28 (Practice 9 · Lab 9 · Quiz 9 · Final 1).
 
 Each sheet's `assessment:` and `possible:` join it to its row in `2. Gradebook/2 Tier2 The Core/MC 220.md`. Don't
 rename the files or edit those two fields.
