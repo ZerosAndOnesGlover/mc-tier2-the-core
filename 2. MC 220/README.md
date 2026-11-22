@@ -31,7 +31,7 @@ each lab, side by side in the week it belongs to.
 | 6 | Mon 16 – Sun 22 Oct 2028 | Walking downhill one step at a time, and the matrix of all the slopes. | Lab 6 · Practice 6 · Quiz 6 |
 | 7 | Mon 23 – Sun 29 Oct 2028 | Volume under a surface, and coordinates that fit the region. | Lab 7 · Practice 7 · Quiz 7 |
 | 8 | Mon 30 Oct – Sun 5 Nov 2028 | Adding up in three dimensions, and curves and surfaces drawn by parameters. | Lab 8 · Practice 8 · Quiz 8 |
-| 9 | Mon 6 – Sun 12 Nov 2028 | An arrow at every point, the work done along a path, and Green's theorem. | *awaiting material* |
+| 9 | Mon 6 – Sun 12 Nov 2028 | An arrow at every point, the work done along a path, and Green's theorem. | Lab 9 · Practice 9 · Quiz 9 |
 | 10 | Mon 13 – Sun 19 Nov 2028 | The whole course on one page. | *awaiting material* |
 
 A week's sheets appear when its material is written (`tools/make_sheets.py`), so a week marked *awaiting material*
@@ -42,7 +42,7 @@ is empty for now. Dates after August 2027 are provisional (CALENDAR).
 ## Assessment
 
 **Weights:** Practice 40% (lowest dropped) · Labs 20% · Quizzes 15% (lowest dropped) · Final 25%.
-**Sheets so far:** 24 (Practice 8 · Lab 8 · Quiz 8).
+**Sheets so far:** 27 (Practice 9 · Lab 9 · Quiz 9).
 
 Each sheet's `assessment:` and `possible:` join it to its row in `2. Gradebook/2 Tier2 The Core/MC 220.md`. Don't
 rename the files or edit those two fields.
