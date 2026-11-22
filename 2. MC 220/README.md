@@ -27,7 +27,7 @@ each lab, side by side in the week it belongs to.
 | 2 | Mon 18 – Sun 24 Sep 2028 | The slope in one direction at a time, and the flat plane that hugs a surface. | Lab 2 · Practice 2 · Quiz 2 |
 | 3 | Mon 25 Sep – Sun 1 Oct 2028 | The arrow that points uphill, and the slope in any direction you choose. | Lab 3 · Practice 3 · Quiz 3 |
 | 4 | Mon 2 – Sun 8 Oct 2028 | Rates multiply along every path, and that is how a neural network learns. | Lab 4 · Practice 4 · Quiz 4 |
-| 5 | Mon 9 – Sun 15 Oct 2028 | Peaks, pits and saddles, and the best point on a constraint. | *awaiting material* |
+| 5 | Mon 9 – Sun 15 Oct 2028 | Peaks, pits and saddles, and the best point on a constraint. | Lab 5 · Practice 5 · Quiz 5 |
 | 6 | Mon 16 – Sun 22 Oct 2028 | Walking downhill one step at a time, and the matrix of all the slopes. | *awaiting material* |
 | 7 | Mon 23 – Sun 29 Oct 2028 | Volume under a surface, and coordinates that fit the region. | *awaiting material* |
 | 8 | Mon 30 Oct – Sun 5 Nov 2028 | Adding up in three dimensions, and curves and surfaces drawn by parameters. | *awaiting material* |
@@ -42,7 +42,7 @@ is empty for now. Dates after August 2027 are provisional (CALENDAR).
 ## Assessment
 
 **Weights:** Practice 40% (lowest dropped) · Labs 20% · Quizzes 15% (lowest dropped) · Final 25%.
-**Sheets so far:** 12 (Practice 4 · Lab 4 · Quiz 4).
+**Sheets so far:** 15 (Practice 5 · Lab 5 · Quiz 5).
 
 Each sheet's `assessment:` and `possible:` join it to its row in `2. Gradebook/2 Tier2 The Core/MC 220.md`. Don't
 rename the files or edit those two fields.
