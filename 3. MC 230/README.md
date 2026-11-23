@@ -29,7 +29,7 @@ each lab, side by side in the week it belongs to.
 | 5 | Mon 25 – Sun 31 Dec 2028 | Counting random arrivals, and chances spread over a continuum. | Lab 5 · Practice 5 · Quiz 5 |
 | 6 | Mon 1 – Sun 7 Jan 2029 | The three continuous shapes that matter most, and how two random numbers move together. | Lab 6 · Practice 6 · Quiz 6 |
 | 7 | Mon 8 – Sun 14 Jan 2029 | Why averages settle down, and why they settle into a bell. | Lab 7 · Practice 7 · Quiz 7 |
-| 8 | Mon 15 – Sun 21 Jan 2029 | Answering questions by simulation, and algorithms that flip coins. | *awaiting material* |
+| 8 | Mon 15 – Sun 21 Jan 2029 | Answering questions by simulation, and algorithms that flip coins. | Lab 8 · Practice 8 · Quiz 8 |
 | 9 | Mon 22 – Sun 28 Jan 2029 | Summarising data honestly, and guessing a population from a sample. | *awaiting material* |
 | 10 | Mon 29 Jan – Sun 4 Feb 2029 | How sure an estimate is, and how to test a claim without fooling yourself. | *awaiting material* |
 | 11 | Mon 5 – Sun 11 Feb 2029 | Comparing two versions of a product, and fitting a line to noisy data. | *awaiting material* |
@@ -45,7 +45,7 @@ is empty for now. Dates after August 2027 are provisional (CALENDAR).
 ## Assessment
 
 **Weights:** Practice 40% (lowest dropped) · Labs 20% · Quizzes 15% (lowest dropped) · Final 25%.
-**Sheets so far:** 21 (Practice 7 · Lab 7 · Quiz 7).
+**Sheets so far:** 24 (Practice 8 · Lab 8 · Quiz 8).
 
 Each sheet's `assessment:` and `possible:` join it to its row in `2. Gradebook/2 Tier2 The Core/MC 230.md`. Don't
 rename the files or edit those two fields.
