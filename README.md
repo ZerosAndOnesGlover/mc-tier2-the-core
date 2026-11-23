@@ -15,7 +15,7 @@ for each lab. Every tier of the track has its own repository, as every CSE semes
 | `0. MC 200/` | MC 200 Calculus: One Variable | Mon 24 Jan 2028 – Sun 4 Jun 2028 | complete | 52 | `$MC200` |
 | `1. MC 210/` | MC 210 Linear Algebra | Mon 5 Jun 2028 – Sun 10 Sep 2028 | complete | 40 | `$MC210` |
 | `2. MC 220/` | MC 220 Multivariable Calculus | Mon 11 Sep 2028 – Sun 19 Nov 2028 | complete | 28 | `$MC220` |
-| `3. MC 230/` | MC 230 Probability and Statistics | Mon 20 Nov 2028 – Sun 4 Mar 2029 | being built | 3 | `$MC230` |
+| `3. MC 230/` | MC 230 Probability and Statistics | Mon 20 Nov 2028 – Sun 4 Mar 2029 | being built | 6 | `$MC230` |
 | `4. MC 240/` | MC 240 Differential Equations | Mon 5 Mar 2029 – Sun 6 May 2029 | planned | 0 | `$MC240` |
 
 Each course folder has a README with its weeks, its topics and its sheets, then `week1/`, `week2/`, …, one per teaching
