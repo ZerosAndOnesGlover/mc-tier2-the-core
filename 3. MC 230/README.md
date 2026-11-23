@@ -24,7 +24,7 @@ each lab, side by side in the week it belongs to.
 |---|---|---|---|
 | 1 | Mon 20 – Sun 26 Nov 2028 | Chance as counting equally likely outcomes, and the three rules every probability obeys. | Lab 1 · Practice 1 · Quiz 1 |
 | 2 | Mon 27 Nov – Sun 3 Dec 2028 | How new information changes a probability, and how to turn a probability around. | Lab 2 · Practice 2 · Quiz 2 |
-| 3 | Mon 4 – Sun 10 Dec 2028 | Numbers decided by chance, and the average they settle to. | *awaiting material* |
+| 3 | Mon 4 – Sun 10 Dec 2028 | Numbers decided by chance, and the average they settle to. | Lab 3 · Practice 3 · Quiz 3 |
 | 4 | Mon 11 – Sun 17 Dec 2028 | How far a random number strays from its average, and the distributions of repeated trials. | *awaiting material* |
 | 5 | Mon 25 – Sun 31 Dec 2028 | Counting random arrivals, and chances spread over a continuum. | *awaiting material* |
 | 6 | Mon 1 – Sun 7 Jan 2029 | The three continuous shapes that matter most, and how two random numbers move together. | *awaiting material* |
@@ -45,7 +45,7 @@ is empty for now. Dates after August 2027 are provisional (CALENDAR).
 ## Assessment
 
 **Weights:** Practice 40% (lowest dropped) · Labs 20% · Quizzes 15% (lowest dropped) · Final 25%.
-**Sheets so far:** 6 (Practice 2 · Lab 2 · Quiz 2).
+**Sheets so far:** 9 (Practice 3 · Lab 3 · Quiz 3).
 
 Each sheet's `assessment:` and `possible:` join it to its row in `2. Gradebook/2 Tier2 The Core/MC 230.md`. Don't
 rename the files or edit those two fields.
