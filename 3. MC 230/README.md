@@ -33,7 +33,7 @@ each lab, side by side in the week it belongs to.
 | 9 | Mon 22 – Sun 28 Jan 2029 | Summarising data honestly, and guessing a population from a sample. | Lab 9 · Practice 9 · Quiz 9 |
 | 10 | Mon 29 Jan – Sun 4 Feb 2029 | How sure an estimate is, and how to test a claim without fooling yourself. | Lab 10 · Practice 10 · Quiz 10 |
 | 11 | Mon 5 – Sun 11 Feb 2029 | Comparing two versions of a product, and fitting a line to noisy data. | Lab 11 · Practice 11 · Quiz 11 |
-| 12 | Mon 12 – Sun 18 Feb 2029 | The parameter that makes the data most likely, and updating beliefs with evidence. | *awaiting material* |
+| 12 | Mon 12 – Sun 18 Feb 2029 | The parameter that makes the data most likely, and updating beliefs with evidence. | Lab 12 · Practice 12 · Quiz 12 |
 | 13 | Mon 19 – Sun 25 Feb 2029 | Systems that wander between states, and waiting in line. | *awaiting material* |
 | 14 | Mon 26 Feb – Sun 4 Mar 2029 | The whole course on one page. | *awaiting material* |
 
@@ -45,7 +45,7 @@ is empty for now. Dates after August 2027 are provisional (CALENDAR).
 ## Assessment
 
 **Weights:** Practice 40% (lowest dropped) · Labs 20% · Quizzes 15% (lowest dropped) · Final 25%.
-**Sheets so far:** 33 (Practice 11 · Lab 11 · Quiz 11).
+**Sheets so far:** 36 (Practice 12 · Lab 12 · Quiz 12).
 
 Each sheet's `assessment:` and `possible:` join it to its row in `2. Gradebook/2 Tier2 The Core/MC 230.md`. Don't
 rename the files or edit those two fields.
