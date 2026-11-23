@@ -1,7 +1,7 @@
 # MC 230 · Probability and Statistics
 
 **Course:** MC 230, Probability and Statistics (Tier 2, 14 weeks)
-**When:** Mon 20 Nov 2028 – Sun 4 Mar 2029 · **Status:** being built
+**When:** Mon 20 Nov 2028 – Sun 4 Mar 2029 · **Status:** complete
 **Course material:** `2. Tier 2 - The Core/3. MC 230 - Probability and Statistics/`
 **Shell variable:** `$MC230` (defined once from *Shell variables* in the vault's `9. Track Registry/4. Submissions/README.md`)
 
@@ -35,7 +35,7 @@ each lab, side by side in the week it belongs to.
 | 11 | Mon 5 – Sun 11 Feb 2029 | Comparing two versions of a product, and fitting a line to noisy data. | Lab 11 · Practice 11 · Quiz 11 |
 | 12 | Mon 12 – Sun 18 Feb 2029 | The parameter that makes the data most likely, and updating beliefs with evidence. | Lab 12 · Practice 12 · Quiz 12 |
 | 13 | Mon 19 – Sun 25 Feb 2029 | Systems that wander between states, and waiting in line. | Lab 13 · Practice 13 · Quiz 13 |
-| 14 | Mon 26 Feb – Sun 4 Mar 2029 | The whole course on one page. | *awaiting material* |
+| 14 | Mon 26 Feb – Sun 4 Mar 2029 | The whole course on one page. | Final |
 
 A week's sheets appear when its material is written (`tools/make_sheets.py`), so a week marked *awaiting material*
 is empty for now. Dates after August 2027 are provisional (CALENDAR).
@@ -45,7 +45,7 @@ is empty for now. Dates after August 2027 are provisional (CALENDAR).
 ## Assessment
 
 **Weights:** Practice 40% (lowest dropped) · Labs 20% · Quizzes 15% (lowest dropped) · Final 25%.
-**Sheets so far:** 39 (Practice 13 · Lab 13 · Quiz 13).
+**Sheets so far:** 40 (Practice 13 · Lab 13 · Quiz 13 · Final 1).
 
 Each sheet's `assessment:` and `possible:` join it to its row in `2. Gradebook/2 Tier2 The Core/MC 230.md`. Don't
 rename the files or edit those two fields.
